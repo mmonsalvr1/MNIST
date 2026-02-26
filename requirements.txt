@@ -1,7 +1,8 @@
-streamlit
-numpy
-pandas
-scikit-learn
-matplotlib
-pillow
-streamlit-drawable-canvas
+streamlit>=1.31
+streamlit-drawable-canvas>=0.9.3
+tensorflow>=2.16
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+plotly>=5.18
+scikit-learn>=1.3
